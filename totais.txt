@@ -1,0 +1,62 @@
+
+[0] 27 10.00 Paracetamol
+[1] 28 12.50 Ibuprofeno
+[2] 29 8.00 Aspirina
+[3] 30 15.00 Omeprazol
+[4] 31 20.00 Amoxicilina
+[5] 32 18.50 Atorvastatina
+[6] 33 22.00 Setralina
+[7] 34 9.50 Metformina
+[8] 35 7.50 Loratadina
+[9] 36 11.50 Naproxeno
+
+
+[0] 17 Isabella
+[1] 18 Ana
+[2] 19 Vitor
+[3] 20 Vinicius
+[4] 21 Mohamed
+
+
+[0] 17 27 12
+[1] 18 28 6
+[2] 19 29 25
+[3] 20 30 16
+[4] 21 31 5
+[5] 17 32 13
+[6] 18 33 11
+[7] 19 34 17
+[8] 20 35 18
+[9] 21 36 15
+[10] 17 36 14
+[11] 18 35 19
+[12] 19 34 20
+[13] 20 33 16
+[14] 21 32 7
+[15] 17 31 6
+[16] 18 30 8
+[17] 19 29 10
+[18] 20 28 9
+[19] 21 27 21
+
+
+Total geral vendido: 3304.00
+
+Total de vendas de cada produto:
+Produto 27 (Paracetamol): R$330.00
+Produto 28 (Ibuprofeno): R$187.50
+Produto 29 (Aspirina): R$280.00
+Produto 30 (Omeprazol): R$360.00
+Produto 31 (Amoxicilina): R$220.00
+Produto 32 (Atorvastatina): R$370.00
+Produto 33 (Setralina): R$594.00
+Produto 34 (Metformina): R$351.50
+Produto 35 (Loratadina): R$277.50
+Produto 36 (Naproxeno): R$333.50
+
+Total de vendas de cada vendedor:
+Vendedor 17 (Isabella): R$641.50
+Vendedor 18 (Ana): R$579.50
+Vendedor 19 (Vitor): R$631.50
+Vendedor 20 (Vinicius): R$839.50
+Vendedor 21 (Mohamed): R$612.00

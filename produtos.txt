@@ -1,0 +1,11 @@
+10 
+27 10.00 Paracetamol
+28 12.50 Ibuprofeno
+29 8.00 Aspirina
+30 15.00 Omeprazol
+31 20.00 Amoxicilina
+32 18.50 Atorvastatina
+33 22.00 Setralina
+34 9.50 Metformina
+35 7.50 Loratadina
+36 11.50 Naproxeno
